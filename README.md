@@ -1,4 +1,4 @@
-# confd
+# elb-confd
 
 [![Build Status](https://travis-ci.org/kelseyhightower/confd.svg?branch=master)](https://travis-ci.org/kelseyhightower/confd)
 
